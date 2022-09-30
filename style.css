@@ -1,0 +1,309 @@
+/* *{
+    margin-left: 20px;
+    margin-right: 20px;
+} */
+
+body {
+    background-color: whitesmoke;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.h3 {
+    align-content: center;
+    margin-left: 500px;
+    color: rgb(1, 14, 14);
+}
+
+.ser{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    margin-left: 1000px;
+    height: 20px;
+    width: 60px;
+    border-radius: 5px;
+    color:#b69f9f;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.btn-1{
+    font-family: Nunito;
+    font-weight: 800;
+    font-size: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.btn-2{
+    font-family: Nunito;
+    font-weight: 800;
+    font-size: 10px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.btn-3{
+    font-family: Nunito;
+    font-weight: 800;
+    font-size: 10px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.btn-4{
+    font-family: Nunito;
+    font-weight: 800;
+    font-size: 10px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.btn-5{
+    font-family: Nunito;
+    font-weight: 800;
+    font-size: 10px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.btn-6{
+    font-family: Nunito;
+    font-weight: 800;
+    font-size: 10px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+
+.nav{
+    background-color: #242D70;
+    height: 70px;
+    width: 100%;
+    
+}
+
+
+ .sign{
+     border-radius: 5px;
+     font-size: 15px;
+     margin-top: 20px;
+    margin-left: 300px;
+    font-weight: 800;
+    color: whitesmoke;
+    background-color: #232C7F;
+    Font-family: Nunito;
+    font-style: ExtraBold;
+}
+.get{
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 800;
+    margin-top: 20px;
+    margin-right: 50px;
+    color: rgb(4, 218, 233);
+} 
+
+.h2{
+    margin-left: 400px;
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    color: #242222;
+}
+
+.p-1{
+    margin-left: 400px;
+    font-weight: 400;
+    font-family: Source Sans Pro;
+    
+}
+
+.but {
+    margin-left: 400px;
+}
+
+.tn-1{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    color: #232C7F;
+}
+
+.tn-2{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    color: #232C7F;
+}
+
+.tn-3{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    color: #232C7F;
+}
+
+.tn-4{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    color: #232C7F;
+}
+
+.tn-5{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    color: #232C7F;
+}
+
+.tn-6{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    color: #232C7F;
+}
+
+.tn-7{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    color: #232C7F;
+}
+
+.rec{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    color: #4F4C4C;
+    font-size: 20px;
+}
+
+
+
+.line{
+    margin-left: 450px;
+}
+
+.img-1{
+    width: 300px;
+    height: 250px;
+}
+
+.p{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.max{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-size: 16px;
+    color: #919397;
+}
+
+.pro{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-size: 15px;
+    color: #403C3C;
+}
+
+.hr{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 14px;
+    color: #6E798C;
+}
+
+.am{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 20px;
+    color: #232C7F;
+}
+
+.amo{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFAA00;  
+}
+
+.buy{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-left: 100px;
+    background-color: #232C7F;
+    color:#6E798C;
+}
+
+.mid-head{
+    margin-left: 100px;
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 20px;
+    color: #232C7F;
+    
+}
+
+
+
+
+
+.img-2 {
+    width: 300px;
+    height: 250px;
+
+}
+
+.img-3{
+    width: 300px;
+    height: 250px;
+}
+
+.container-3{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.bottom{
+    background-color: #F4F9FF;
+}
+
+.link{
+    align-items: center;
+    margin-left: 50px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.link{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 18px;
+    color:#242222;
+}
+
+.p-3{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-size: 16px;
+    color:#474540;
+}
+
+.bottom-last{
+    background-color: #232C7F;
+    height: 50px;
+}
+
+.icon{
+    display: flex;
+    justify-content: space-around;
+    color:#FFFFFF;
+    
+}
